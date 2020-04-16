@@ -23,5 +23,5 @@
 * [1107211045 唐冠雯](https://github.com/o3o951235/markdown)
 * [1107211072 陳冠智](https://github.com/Koko335577/1107211072/blob/master/README.md)
 * [1107211011 薛玥禎](https://github.com/yuezhen0307/gitest/blob/master/README.md)
-* [1107211002 柯苡萱](https://github.com/devinliang/gitest/)
+* [1107211002 柯苡萱](https://github.com/kejomy/git/blob/master/README.md)
 
